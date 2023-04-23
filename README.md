@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Semyon 👋
+- 🌱 I’m currently learning Java, and have alredy made some success &#128526;
+- So far, on my github you can find the tasks that I solved, many of them can be quite interesting.
+- Here is a link to my codewars account. Join us, let's do the exercises together - www.codewars.com/r/TTH6EQ
+- this is how far i got on codewars 	&#128071;
+<img src="https://www.codewars.com/users/bigsam40/badges/large">
 
 <!--
 **bigsam40/bigsam40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
